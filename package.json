@@ -57,9 +57,6 @@
         "typedoc": "TypeStrong/typedoc#master",
         "typescript": "^3.0.1"
     },
-    "engines": {
-        "node": ">=8.11.3"
-    },
     "dependencies": {
         "amqplib": "^0.5.2",
         "ioredis": "^4.0.0",
